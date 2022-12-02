@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @BIT-TYJ
-- 👀 I’m interested in listening to musics, playing ping-pong and playing games
-- 🌱 I’m currently a Ph.D. candidate in BIT.
+- 👋 Hi, I’m @BIT-TYJ, I got my bachelor's degree in BIT.   🌱 And I’m currently a Ph.D. candidate in BIT.
+- 👀 I’m interested in listening to musics, playing ping-pong and playing games.
 
 <div align="center">  
   <img  src="https://github-readme-stats.vercel.app/api?username=BIT-TYJ&show_icons=true" />
